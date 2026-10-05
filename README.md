@@ -52,7 +52,7 @@ avec l'utilisateur.
 
 La présentation du projet réalisé durant mon stage est disponible ici :
 
-[Voir la présentation](presentation/presentation-crm-agentique.pdf)
+[Voir la présentation](Présentation_Projet/AVISIA_Projet_CRM_Agentic_Google_Slides.pdf)
 
 ---
 
